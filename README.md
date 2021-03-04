@@ -1,4 +1,4 @@
-# fcc-random-quote-machine-vue
+# FreeCodeCamp Random Quote Machine (Vue.js)
 
 A rewrite of [this React project on CodePen](https://codepen.io/corscheid/full/vYyYXBd) using Vue 2
 
