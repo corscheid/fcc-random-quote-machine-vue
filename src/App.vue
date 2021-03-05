@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div v-if="loading">
+    <div v-if="loading" id="loading">
       <h1>loading...</h1>
     </div>
     <QuoteBox v-else
