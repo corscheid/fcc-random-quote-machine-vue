@@ -8,7 +8,7 @@
     </button>
     <a
       id="tweet-quote"
-      :href="tweetURL"
+      href="tweetURL"
       target="_top"
       class="btn btn-secondary"
     >
